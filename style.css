@@ -1,0 +1,670 @@
+.first_flex {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 77.5%;
+    margin-top: 38px;
+    margin-left: 11.2%;
+    position: relative;
+
+}
+
+.first_text{
+    font-size: 28px;
+    margin-bottom: 5px;
+    position: relative;
+
+}
+
+.second_flex {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 59.5%;
+    margin-top: 28px;
+    position: relative;
+}
+
+.head_button {
+    width: 24%;
+    height: 38px;
+    background-color: rgb(248, 133, 1);
+    border: none;
+    border-radius: 3px;
+    margin-top: 5px;
+    position: relative;
+}
+
+.third_flex {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 144px;
+    margin-left: 11.5%;
+    width: 68%;
+    position: relative;
+}
+
+.picture1 {
+    width: 312px;
+    height: 400px;
+    position: relative;
+}
+
+.forth_flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    position: relative;
+    
+}
+
+.third_text{
+    font-size: 35px;
+    margin-left: 35%;
+    font-weight: bold;
+    margin-bottom: 5px;
+    position: relative;
+
+}
+
+.forth_text{
+    margin-left: 35%;
+    margin-bottom: 25px;
+    font-size: 17px;
+    position: relative;
+}
+
+.second_button{
+    width: 24%;
+    height: 43px;
+    background-color: rgb(248, 133, 1);
+    border: none;
+    border-radius: 3px;
+    margin-left: 35%;
+    margin-bottom: 35px;
+    position: relative;
+}
+
+.title1{
+    margin-left: 25%;
+    margin-top: 317px;
+    font-size: 26px;
+    font-weight: bold;
+    position: relative;
+}
+
+.title2{
+    margin-left: 25%;
+    margin-top: 10px; 
+    font-size: 20px;
+    margin-right: 20%;
+    position: relative;
+
+}
+
+.big_flex{
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-around; 
+    width: 80%;
+    margin-left: 11%;
+    margin-top: 52px;
+    position: relative;
+
+}
+
+.bsflex {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+}
+
+.picture2{
+    width: 480px;
+    height: 250px;
+    position: relative;
+}
+
+.little1_flex{
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 8%;
+    width: 89%;
+    position: relative;
+}
+
+.picture3{
+    width: 64px;
+    height: 65px;
+    position: relative;
+}
+.most_little1{
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 50%;
+    position: relative;
+}
+
+.fl_1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 9%;
+    margin-top: -18px;
+    position: relative;
+}
+
+.little_text1{
+    font-weight: bold;
+    position: relative;
+}
+
+.little2_flex{
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 8%;
+    width: 89%;
+    margin-top: 18px;
+    position: relative;
+}
+
+.knopki{
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 36%;
+    margin-top: 50px;
+    width: 26%; 
+    position: relative;
+}
+.first_knopka {
+    width: 150px;
+    height: 45px;
+    background-color: rgb(248, 133, 1);
+    border: none;
+    border-radius: 3px;
+    margin-top: 5px;
+    position: relative;
+}
+.second_knopka{
+    width: 150px;
+    height: 45px;
+    border-radius: 3px;
+    margin-top: 5px;
+    border-color: black;
+    background-color: white;
+    position: relative;
+}
+
+.fl_2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 100%;
+    margin-top:200px;
+    position: relative;
+}
+.fl_3{
+    display: inline-flex;
+    flex-direction: row;
+    margin-left: 11%;
+    width: 78%;
+    position: relative;
+}
+
+.text22{
+    margin: 0 auto;
+    position: relative;
+}
+
+.picture_5{
+    height: auto;
+    width: 33%;
+    position: relative;
+}
+
+.picture_6{
+    height: auto;
+    width: 33%;
+    position: relative;
+}
+
+.picture_7{
+    height: auto;
+    width: 33%;
+    position: relative;
+}
+
+.fl_4{
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 70%;
+    margin-left: 14%;
+    position: relative;
+} 
+
+.fl_5{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    position: relative;
+}
+
+.fl_6{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: 444px;
+    position: relative;
+}
+
+.fl_7{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    position: relative;
+}
+
+.picture10{
+    height: auto;
+    width: 100%;
+    z-index: 1;
+    position: relative;
+
+}
+
+.picture11{
+    height: auto;
+    width: 100%;
+    position: relative;
+}
+
+.picture12{
+    height: auto;
+    width: 100%;
+    z-index: 1;
+    position: relative;
+}
+
+.knopochka1{
+    width: 150px;
+    height: 45px;
+    background-color: orange;
+    border: none;
+    margin-left: 60%;
+    margin-top: -20%;
+    z-index: 2;
+    position: relative;
+}
+
+.knopochka2{
+    width: 150px;
+    height: 45px;
+    background-color: transparent;
+    margin-left: 35%;
+    margin-top: -52%;
+    font-weight: bold;
+    border: 5px solid black;
+    z-index: 2;
+    position: relative;
+}
+
+.text_111{
+    margin-top: 284px;
+    margin-left: 40%;
+    position: relative;
+}
+
+.fl_8{
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 76%;
+    margin-left: 12%;
+    margin-top: 30px;
+    position: relative;
+    align-items: center;
+}
+
+.knopochka3{
+    width: 70px;
+    height: 70px;
+    background-color:white;
+    border: 1px solid grey;
+    border-radius: 35px;
+    margin-top: 80px;
+    position: relative;
+
+}
+
+.fl_9{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+    align-items: center;
+    width: 70%;
+}
+
+.kruzhok{
+    width: 10%;
+    height: auto;
+    position: relative;
+}
+
+.text1212{
+    font-size: 20px;
+    width: 70%;
+    position: relative;
+}
+
+.text1313{
+    margin-top: 15px;
+    position: relative;
+   
+}
+
+
+.knopochka4{
+    width: 70px;
+    height: 70px;
+    margin-top: 80px;
+    background-color:white;
+    position: relative;
+    border: 1px solid grey;
+    border-radius: 35px;
+
+}
+
+.text1414{
+color: grey;
+margin-top: -15px;
+position: relative;
+
+}
+
+.line{
+    margin-top: 70px;
+    position: relative;
+}
+
+.txt_1{
+    margin-top: 40px;
+    margin-left: 44%;
+    position: relative;
+}
+
+.txt_2{
+    margin-left: 38%;
+    font-size: 19px;
+    position: relative;
+}
+
+.fl_10{
+    margin-top: 9px;
+    margin-left: 42%;
+    width: 14%;
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: relative;
+}
+
+@media screen and (max-width:1024px) {
+    .big_flex{
+       margin-left: 3%;
+       width: 98%;
+    }
+    
+    .knopochka1{
+        margin-left: 40%;
+    }
+    .second_button{
+        width:35%; 
+    }
+
+    .knopki{
+        width: 35%;
+    }
+
+    .text_111{
+        margin-left: 35%;
+    }
+    
+}
+@media screen and (max-width: 1117px) {
+    .second_button{
+        width: 35%;
+    }
+
+    .knopochka1{
+        width: 35%;
+    }
+     
+    
+}
+
+@media screen and (max-width: 768px) {
+    .second_flex{
+        width: 80%;
+        margin-left: 15%;
+    }
+    
+    .forth_text{
+        margin-left: 10%;
+    }
+    .third_text{
+        margin-left: 10%;
+    }
+    
+    .second_button{
+        margin-left: 10%;
+    }
+
+    .big_flex{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+
+    .bsflex{
+        margin-top: 30px;
+        margin-left: -5%;
+    }
+    .knopki{
+        width: 50%;
+        margin-left: 25%;
+    }
+
+    .knopochka1{
+        width: 50%;
+    }
+
+    .txt_2{
+        margin-left: 30%;
+    }
+
+    .txt_1{
+        margin-left: 42%;
+    }
+
+    .title1{
+        margin-left: 10%;
+    }
+
+    .title2{
+        margin-left: 10%;
+    }
+
+    .text1313{
+        margin-left: 40%;
+    }
+
+    .text1414{
+        margin-left: 40%;
+    }
+
+    .text_111{
+        margin-left: 30%;
+    }
+
+    @media screen and (max-width: 360px){
+        .first_flex {
+            display: flex;
+            flex-direction: column;
+            
+        }
+
+        .second_flex{
+            display: flex;
+            flex-direction: column;
+        }
+       
+        .head_button{
+            width: 40%;
+            align-items: center;
+        }
+        .third_flex{
+            display: flex;
+            flex-direction: column;
+        }
+        .picture1{
+            margin-left: -15%;
+        }
+
+        .forth_flex{
+            margin-left: -20%;
+        }
+
+        .picture2{
+            width: 98%;
+            height: 200px;
+        }
+        .bsflex{
+            margin-left: -13%;
+        }
+
+        .little_text2{
+            margin-top: -5px;
+        }
+        .title2{
+            width: 80%;
+
+        }
+
+        .knopki{
+            width: 80%;
+            margin-left: 10%;
+        }
+
+        .fl_3{
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            margin-top: 10px;
+            align-items: center;
+
+        }
+
+        .picture_5{
+            width: 80%;
+        }
+
+        .picture_6{
+            width: 80%;
+        }
+
+        .picture_7{
+            width: 80%;
+        }
+
+        .fl_4{
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+
+        }
+
+        .fl_5{
+            width: 100%;
+        }
+
+        .fl_6{
+            width: 100%;
+        }
+
+        .knopochka2{
+            margin-left: 20%;
+        }
+
+        .text_111{
+            margin-top: 50px;
+        }
+
+        .fl_8{
+            display: flex;
+            flex-direction: column;
+            margin-top: -65px;
+        }
+
+        .knopochka3{
+            margin-left: 40%;
+        }
+
+        .kruzhok{
+            width: 30%;
+            margin-left: 40%;
+        }
+
+        .fl_9{
+            margin-top: 10px;
+
+        }
+
+        .text1212{
+            width: 90%;
+        }
+        
+        .knopochka4{
+            margin-left: 40%;
+        }
+
+        .txt_1{
+            margin-left: 25%;
+        }
+
+        .txt_2{
+            margin-left: 10%;
+        }
+        .fl_10{
+            margin-left: 25%;
+        }
+
+
+
+        
+    }
+
+    
+
+
+        
+
+    
+
+
+
+
+
+
+
+
+
+
+
